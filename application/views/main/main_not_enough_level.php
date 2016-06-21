@@ -1,0 +1,1 @@
+<a>You don't have enough gm level to visit this page!</a>

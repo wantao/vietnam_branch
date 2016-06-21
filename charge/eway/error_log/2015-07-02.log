@@ -1,0 +1,21 @@
+16:17:23: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][34][is_param_right]  not set params username!
+16:19:58: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][39][is_param_right]  not set params game_code
+16:20:23: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][39][is_param_right]  not set params game_code
+16:22:10: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][39][is_param_right]  not set params game_code
+16:23:52: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:23:54: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:23:55: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:23:55: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:23:56: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:23:56: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:23:56: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:23:56: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:23:57: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:23:59: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:24:18: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:26:11: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\unity\self_pay.php][292][order_info_write_to_db] area_id:1 digit_id:79 game_order_id:12 has been proccessed
+16:26:45: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\eway_payment_notify.php][40][is_param_right]  not set params game_code
+16:27:01: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\unity\self_pay.php][292][order_info_write_to_db] area_id:1 digit_id:79 game_order_id:12 has been proccessed
+18:10:02: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\common.php][14][proccess_recieved_order_notify]  order_platform_id:8 transaction_id:111 has been proccessed!
+18:10:03: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\common.php][14][proccess_recieved_order_notify]  order_platform_id:8 transaction_id:111 has been proccessed!
+18:10:04: [F:\wt\wampServer\setUpDir\wamp\www\vietnam_branch\charge\eway\common.php][14][proccess_recieved_order_notify]  order_platform_id:8 transaction_id:111 has been proccessed!
